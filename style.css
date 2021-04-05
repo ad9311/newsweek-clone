@@ -2,6 +2,14 @@
   color: red;
 }
 
+.red-background {
+  background-color: rgb(221, 37, 4);
+}
+
+.white-background {
+  fill: white;
+}
+
 .sn-links img {
   width: 24px;
 }
@@ -16,4 +24,8 @@
 
 .yellow-btn {
   border-radius: 4px;
+}
+
+.red-newsweeks {
+  fill: rgb(221, 37, 4);
 }
