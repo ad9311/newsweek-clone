@@ -8,6 +8,7 @@
 
 .white-background {
   fill: white;
+  enable-background:new 0 0 395.6 60;
 }
 
 .sn-links img {
@@ -28,4 +29,6 @@
 
 .red-newsweeks {
   fill: rgb(221, 37, 4);
+  width: 236px; 
+  height: auto;
 }
