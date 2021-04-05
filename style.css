@@ -1,3 +1,7 @@
 .nav-link:hover {
   color: red;
 }
+
+.sn-links img{
+  width: 24px;
+}
