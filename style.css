@@ -9,6 +9,7 @@
 .white-background {
   fill: white;
   enable-background:new 0 0 395.6 60;
+  width: 80%;
 }
 
 .sn-links img {
@@ -19,12 +20,16 @@
   color: white;
 }
 
+.link-light {
+  text-decoration: none;
+}
+
 .w-20 {
   width: 20px;
 }
 
 .yellow-btn {
-  border-radius: 4px;
+  border-radius: 20px;
 }
 
 .red-newsweeks {
