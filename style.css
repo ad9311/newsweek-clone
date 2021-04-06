@@ -123,3 +123,19 @@
   height: 12vw;
   background-size: cover;
 }
+
+.versus-top {
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-top-color: #777;
+}
+
+.versus-bottom {
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: #777;
+}
+
+.round-tn{
+  width: 5vw;
+}
