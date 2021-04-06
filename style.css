@@ -123,3 +123,7 @@
   height: 12vw;
   background-size: cover;
 }
+
+.text-smaller {
+  font-size: 14px;
+}
