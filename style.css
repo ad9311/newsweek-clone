@@ -2,6 +2,15 @@
   color: red;
 }
 
+.hover-red {
+  text-decoration: none;
+}
+
+.hover-red:hover {
+  text-decoration: underline;
+  text-decoration-color: rgb(221, 37, 4);
+}
+
 .red-background {
   background-color: rgb(221, 37, 4);
 }
@@ -75,4 +84,14 @@
   top: 50px;
   right: 0;
   z-index: 30;
+}
+
+.background-img {
+  background-image: url("img/donald-trump.jpg");
+  background-size: cover;
+  height: 25vh;
+}
+
+.light-border {
+  border-color: lightgray;
 }
