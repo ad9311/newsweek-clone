@@ -12,16 +12,21 @@
 
 - [Soon
 
+## Getting Started
+
+It's a pretty simple website. Clone the repo as it is and put the index.html live!
+Don't forget the img folder. It contains many visual resources for the website.
+
 ## Author
 
 👤 **Ángel Díaz**
 
-- GitHub: [@githubhandle](https://github.com/ad9311)
+- GitHub: [@ad9311](https://github.com/ad9311)
 
 
 👤 **Julián Carracedo**
 
-- GitHub: [@githubhandle](https://github.com/JuliCarracedo)
+- GitHub: [@JuliCarracedo](https://github.com/JuliCarracedo)
 
 
 ## 🤝 Contributing
