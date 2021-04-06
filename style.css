@@ -92,6 +92,11 @@
   height: 25vh;
 }
 
+.background-biden {
+  background-image: url("img/biden.jpg");
+  height: 30vh;
+}
+
 .light-border {
   border-color: lightgray;
 }
