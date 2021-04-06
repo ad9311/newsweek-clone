@@ -94,9 +94,32 @@
 
 .background-biden {
   background-image: url("img/biden.jpg");
-  height: 30vh;
+  background-size: cover;
+  height: 50vh;
 }
 
 .light-border {
   border-color: lightgray;
+}
+
+.mid-tn {
+  width: 12vw;
+}
+
+.gray-bg {
+  background-color: darkgray;
+}
+
+.bg-tn-1 {
+  background-image: url("/img/old-men.jpg");
+  width: 13vw;
+  height: 12vw;
+  background-size: cover;
+}
+
+.bg-tn {
+  background-image: url("/img/travel.jpg");
+  width: 13vw;
+  height: 12vw;
+  background-size: cover;
 }
