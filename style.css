@@ -8,7 +8,6 @@
 
 .white-background {
   fill: white;
-  enable-background:new 0 0 395.6 60;
   width: 80%;
 }
 
@@ -34,7 +33,7 @@
 
 .red-newsweeks {
   fill: rgb(221, 37, 4);
-  width: 236px; 
+  width: 236px;
   height: auto;
 }
 
@@ -43,7 +42,7 @@
   height: 35px;
 }
 
-.searchbar{
+.searchbar {
   width: 10%;
 }
 
