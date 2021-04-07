@@ -156,7 +156,8 @@
   border-radius: 50%;
   position: relative;
   padding: 4px;
-  width: 11%;
+  width: 5vh;
+  height: 5vh;
   left: 40%;
   top: 3vh;
 }
@@ -171,4 +172,12 @@
 
 .singup-background {
   background-color: #f4f5f6;
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .thinner {
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
