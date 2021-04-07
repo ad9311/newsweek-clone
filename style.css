@@ -1,0 +1,174 @@
+.nav-link:hover {
+  color: red;
+}
+
+.hover-red {
+  text-decoration: none;
+}
+
+.hover-red:hover {
+  text-decoration: underline;
+  text-decoration-color: rgb(221, 37, 4);
+}
+
+.red-background {
+  background-color: rgb(221, 37, 4);
+}
+
+.white-background {
+  fill: white;
+  width: 80%;
+}
+
+.sn-links img {
+  width: 24px;
+}
+
+.nobck {
+  color: white;
+}
+
+.link-light {
+  text-decoration: none;
+}
+
+.w-20 {
+  width: 20px;
+}
+
+.yellow-btn {
+  border-radius: 20px;
+}
+
+.red-newsweeks {
+  fill: rgb(221, 37, 4);
+  width: 236px;
+  height: auto;
+}
+
+.footer-svg-size {
+  width: 236px;
+  height: 35px;
+}
+
+.searchbar {
+  width: 10%;
+}
+
+.search {
+  width: 20px;
+}
+
+.notch {
+  width: 100px;
+  height: 20px;
+  position: absolute;
+  background-color: rgb(221, 37, 4);
+  transform: skewX(45deg);
+  content: "";
+  top: 50px;
+  right: 0;
+  z-index: 30;
+}
+
+.line {
+  width: auto;
+  height: 1px;
+}
+
+.cover {
+  width: 60px;
+  height: 20px;
+  position: absolute;
+  background-color: rgb(221, 37, 4);
+  top: 50px;
+  right: 0;
+  z-index: 30;
+}
+
+.background-img {
+  background-image: url("img/donald-trump.jpg");
+  background-size: cover;
+  height: 25vh;
+}
+
+.background-hun {
+  background-image: url("img/hungary.jpg");
+  background-size: cover;
+  height: 25vh;
+}
+
+.background-rank {
+  background-image: url("img/nursing.png");
+  background-size: cover;
+  height: 25vh;
+}
+
+.background-biden {
+  background-image: url("img/biden.jpg");
+  background-size: cover;
+  height: 50vh;
+}
+
+.light-border {
+  border-color: lightgray;
+}
+
+.mid-tn {
+  width: 12vw;
+}
+
+.gray-bg {
+  background-color: darkgray;
+}
+
+.bg-tn-1 {
+  background-image: url("/img/old-men.jpg");
+  width: 12vw;
+  height: 12vw;
+  background-size: cover;
+}
+
+.bg-tn {
+  background-image: url("/img/travel.jpg");
+  width: 12vw;
+  height: 12vw;
+  background-size: cover;
+}
+
+.versus-top {
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-top-color: #777;
+}
+
+.versus-bottom {
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: #777;
+  border-top-width: 3px;
+  border-top-style: double;
+  border-top-color: #777;
+}
+
+.versus {
+  background-color: black;
+  border-radius: 50%;
+  position: relative;
+  padding: 4px;
+  width: 11%;
+  left: 40%;
+  top: 3vh;
+}
+
+.round-tn {
+  width: 5vw;
+}
+
+.text-smaller {
+  font-size: 14px;
+}
+
+.singup-background {
+  background-color: #f4f5f6;
+}
