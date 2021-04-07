@@ -4,6 +4,8 @@
 
 This project is a **replica** of [Newsweek](https://web.archive.org/web/20210120125445/https://www.newsweek.com/) using **Bootstrap**.
 
+![Screenshot #1](/img/screenshot1.png) ![Screenshot #2](/img/screenshot2.png)
+
 ### Built With
 
 - HTML
