@@ -129,10 +129,24 @@
   background-size: cover;
 }
 
+.m-tn-1 {
+  background-image: url("img/old-men.jpg");
+  width: 40vw;
+  height:70vw;
+  background-size: cover;
+}
+
 .bg-tn {
   background-image: url("img/travel.jpg");
   width: 100%;
   height: 20vh;
+  background-size: cover;
+}
+
+.m-tn {
+  background-image: url("img/travel.jpg");
+  width: 40vh;
+  height:50vh;
   background-size: cover;
 }
 
