@@ -112,14 +112,14 @@
 
 .bg-tn-1 {
   background-image: url("/img/old-men.jpg");
-  width: 13vw;
+  width: 12vw;
   height: 12vw;
   background-size: cover;
 }
 
 .bg-tn {
   background-image: url("/img/travel.jpg");
-  width: 13vw;
+  width: 12vw;
   height: 12vw;
   background-size: cover;
 }
@@ -138,4 +138,8 @@
 
 .round-tn{
   width: 5vw;
+}
+
+.text-smaller {
+  font-size: 14px;
 }
