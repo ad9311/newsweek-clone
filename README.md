@@ -2,22 +2,26 @@
 
 # Project 3: Using Bootstrap - Milestone 1
 
+This project is a **replica** of [Newsweek](https://web.archive.org/web/20210120125445/https://www.newsweek.com/) using **Bootstrap**.
+
+![Screenshot #1](/img/screenshot1.png) ![Screenshot #2](/img/screenshot2.png)
+
 ### Built With
 
 - HTML
 - CSS
 - Bootstrap
 
-## Live Version Here 👇🏽️
+### Live Version Here 👇🏽️
 
-- [Soon
+- [Newsweek](https://ad9311.github.io/newsweek/)
 
-## Getting Started
+### Getting Started
 
 It's a pretty simple website. Clone the repo as it is and put the index.html live!
 Don't forget the img folder. It contains many visual resources for the website.
 
-## Author
+### Authors
 
 👤 **Ángel Díaz**
 
@@ -29,11 +33,11 @@ Don't forget the img folder. It contains many visual resources for the website.
 - GitHub: [@JuliCarracedo](https://github.com/JuliCarracedo)
 
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 
-## Show your support
+### Show your support
 
-Please consider leaving a ⭐️ if you like this project, that helps me a lot! 
+Please leave a ⭐️
