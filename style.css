@@ -92,6 +92,18 @@
   height: 25vh;
 }
 
+.background-hun {
+  background-image: url("img/hungary.jpg");
+  background-size: cover;
+  height: 25vh;
+}
+
+.background-rank {
+  background-image: url("img/nursing.png");
+  background-size: cover;
+  height: 25vh;
+}
+
 .background-biden {
   background-image: url("img/biden.jpg");
   background-size: cover;
@@ -155,4 +167,8 @@
 
 .text-smaller {
   font-size: 14px;
+}
+
+.singup-background {
+  background-color: #F4F5F6;
 }
