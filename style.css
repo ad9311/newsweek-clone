@@ -188,6 +188,19 @@
   background-color: #f4f5f6;
 }
 
+.newspaper-tn {
+  height: 14vh;
+  width: 25%;
+}
+
+.red-text {
+  color: rgb(221, 37, 4);
+}
+
+.red-text:hover {
+  color: rgb(221, 37, 4);
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .thinner {
     width: 50vw;
