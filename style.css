@@ -67,7 +67,7 @@
   transform: skewX(45deg);
   content: "";
   top: 50px;
-  right: 0;
+  right: 10px;
   z-index: 30;
 }
 
@@ -189,8 +189,8 @@
 }
 
 .newspaper-tn {
-  height: 14vh;
-  width: 25%;
+  width: 50%;
+  height: 80%;
 }
 
 .red-text {
@@ -201,10 +201,20 @@
   color: rgb(221, 37, 4);
 }
 
+.tinycol {
+  height: 30vh;
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .thinner {
     width: 50vw;
     margin-left: auto;
     margin-right: auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .white-background {
+    width: 100px !important;
   }
 }
