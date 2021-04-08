@@ -190,7 +190,7 @@
 
 .newspaper-tn {
   width: 50%;
-  height: 80%;
+  height: 60%;
 }
 
 .red-text {
@@ -203,6 +203,10 @@
 
 .tinycol {
   height: 30vh;
+}
+
+.input-width {
+  width: 135px;
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
