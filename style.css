@@ -189,8 +189,8 @@
 }
 
 .newspaper-tn {
-  width: 50%;
-  height: 60%;
+  width: 10vw;
+  height: 10vw;
 }
 
 .red-text {
@@ -202,7 +202,7 @@
 }
 
 .tinycol {
-  height: 30vh;
+  height: 25vh;
 }
 
 .input-width {
@@ -221,4 +221,15 @@
   .white-background {
     width: 100px !important;
   }
+
+  .newspaper-tn {
+    width: 30vw;
+    height: 30vw;
+    margin-bottom: 5px;
+  }
+
+  .tinycol {
+    height: 100%;
+  }
+  
 }
