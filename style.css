@@ -206,7 +206,18 @@
 }
 
 .input-width {
-  width: 135px;
+  width: 134px;
+}
+
+.text-center-sus {
+  text-align: center;
+}
+
+.change-image {
+  background-image: url("img/newsletter.png");
+  background-size: cover;
+  height: auto;
+  width: 100%;
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
@@ -214,6 +225,10 @@
     width: 50vw;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .variable-width {
+    width: 100%;
   }
 }
 
@@ -231,5 +246,20 @@
   .tinycol {
     height: 100%;
   }
-  
+
+  .change-image {
+    height: 200px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .text-center-sus {
+    text-align: left;
+  }
+
+  .change-image {
+    background-image: url("img/cropped-img.png");
+    width: 180px;
+    height: 250px;
+  }
 }
