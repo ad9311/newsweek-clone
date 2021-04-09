@@ -282,7 +282,7 @@ body {
   .overlap {
     display: block;
     position: absolute;
-    top:70%;
+    top: 70%;
   }
 
   .no-overlap {
