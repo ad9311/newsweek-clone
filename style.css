@@ -1,5 +1,25 @@
+html {
+  background-color: #f4f5f6;
+}
+
+body {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
 .nav-link:hover {
   color: red;
+}
+
+.invisible-link {
+  background-color: rgba(0, 0, 0, 0);
+  color: rgba(0, 0, 0, 0);
+  font-size: 2em;
+  width: 100%;
+  height: 90%;
+}
+
+.invisible-link:hover {
+  color: rgba(0, 0, 0, 0);
 }
 
 .hover-red {
@@ -67,7 +87,7 @@
   transform: skewX(45deg);
   content: "";
   top: 50px;
-  right: 0;
+  right: 10px;
   z-index: 30;
 }
 
@@ -86,22 +106,21 @@
   z-index: 30;
 }
 
-.background-img {
-  background-image: url("img/donald-trump.jpg");
+.bgk {
   background-size: cover;
   height: 25vh;
+}
+
+.background-img {
+  background-image: url("img/donald-trump.jpg");
 }
 
 .background-hun {
   background-image: url("img/hungary.jpg");
-  background-size: cover;
-  height: 25vh;
 }
 
 .background-rank {
   background-image: url("img/nursing.png");
-  background-size: cover;
-  height: 25vh;
 }
 
 .background-biden {
@@ -189,8 +208,8 @@
 }
 
 .newspaper-tn {
-  height: 14vh;
-  width: 25%;
+  width: 10vw;
+  height: 10vw;
 }
 
 .red-text {
@@ -201,10 +220,96 @@
   color: rgb(221, 37, 4);
 }
 
+.tinycol {
+  height: 25vh;
+}
+
+.input-width {
+  width: 134px;
+}
+
+.text-center-sus {
+  text-align: center;
+}
+
+.change-image {
+  background-image: url("img/newsletter.png");
+  background-size: cover;
+  height: auto;
+  width: 100%;
+}
+
+.widthx,
+.widthx2 {
+  width: 100%;
+}
+
+.overlap {
+  display: none;
+}
+
+.no-overlap {
+  display: block;
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .thinner {
     width: 50vw;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .variable-width {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .white-background {
+    width: 100px !important;
+  }
+
+  .newspaper-tn {
+    width: 30vw;
+    height: 30vw;
+    margin-bottom: 5px;
+  }
+
+  .tinycol {
+    height: 100%;
+  }
+
+  .change-image {
+    height: 200px;
+  }
+
+  .overlap {
+    display: block;
+    position: absolute;
+    top: 70%;
+  }
+
+  .no-overlap {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .text-center-sus {
+    text-align: left;
+  }
+
+  .change-image {
+    background-image: url("img/cropped-img.png");
+    width: 180px;
+    height: 345px;
+  }
+
+  .widthx {
+    width: 40%;
+  }
+
+  .widthx2 {
+    width: 60%;
   }
 }
