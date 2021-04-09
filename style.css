@@ -1,3 +1,7 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
 .nav-link:hover {
   color: red;
 }
@@ -86,22 +90,21 @@
   z-index: 30;
 }
 
-.background-img {
-  background-image: url("img/donald-trump.jpg");
+.bgk {
   background-size: cover;
   height: 25vh;
+}
+
+.background-img {
+  background-image: url("img/donald-trump.jpg");
 }
 
 .background-hun {
   background-image: url("img/hungary.jpg");
-  background-size: cover;
-  height: 25vh;
 }
 
 .background-rank {
   background-image: url("img/nursing.png");
-  background-size: cover;
-  height: 25vh;
 }
 
 .background-biden {
@@ -220,6 +223,11 @@
   width: 100%;
 }
 
+.widthx,
+.widthx2 {
+  width: 100%;
+}
+
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .thinner {
     width: 50vw;
@@ -260,6 +268,14 @@
   .change-image {
     background-image: url("img/cropped-img.png");
     width: 180px;
-    height: 250px;
+    height: 345px;
+  }
+
+  .widthx {
+    width: 40%;
+  }
+
+  .widthx2 {
+    width: 60%;
   }
 }
