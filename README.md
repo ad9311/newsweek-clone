@@ -14,7 +14,7 @@ This project is a **replica** of [Newsweek](https://web.archive.org/web/20210120
 
 ### Live Version Here 👇🏽️
 
-- [Newsweek](https://ad9311.github.io/newsweek/)
+- [Newsweek](https://ad9311.github.io/newsweek-clone/)
 
 ### Getting Started
 
